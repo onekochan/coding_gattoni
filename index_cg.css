@@ -1,0 +1,84 @@
+body{
+
+    background-image: url("cod_background.jpg") ;
+    background-size: cover;
+    color: white;
+    font-family: arial;
+  }
+
+img{
+
+  width: 25%;
+  height: 25%
+}
+
+header{
+text-align: center;
+color: rgb(46,237,33);
+font-family: arial
+
+}
+
+.via, .via2, .via3{
+  margin-top: 5px;
+  width: 300px;
+}
+
+.carica, .carica2, .carica3{
+  margin-top: 5px
+}
+
+.monopattino1, .monopattino2,.monopattino3{
+
+  text-align: left;
+  margin: 10px 0;
+  padding: 10px 5px;
+  border-radius: 6px;
+  width: 240px;
+  margin-top: 10px;
+}
+
+  .rectangular{
+    background-color: rgb(213,141,16);
+    text-align: left;
+    margin: 0px 0;
+    padding: 10px 5px;
+    border-radius: 6px;
+    width: 230px;
+  }
+
+  .rectangular2{
+    background-color: rgb(78,213,16);
+    text-align: center;
+    margin: 0px 0;
+    padding: 10px 5px;
+    border-radius: 6px;
+    width:350px;
+  }
+  .rectanngular3{
+
+    background-color: brown;
+    text-align: center;
+    margin: 0px 0;
+    padding: 10px 5px;
+    border-radius: 6px;
+    width: 80px;
+  }
+
+.main{
+  background-color: rgba(0,0,0,0.5);
+  width: 50%;
+  height:50%;
+  margin: 50px auto;
+  padding: 50px 30px;
+  border-radius: 6px;
+
+}
+
+.seleziona{
+  background-color: rgb(46,237,33);
+  text-align: center;
+  margin: 20px 0;
+  padding: 10px 5px;
+
+}
